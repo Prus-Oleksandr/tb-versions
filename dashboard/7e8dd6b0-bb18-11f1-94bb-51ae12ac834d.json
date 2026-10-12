@@ -130,7 +130,10 @@
       }
     },
     "resources" : null,
-    "externalId" : null
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "7e8dd6b0-bb18-11f1-94bb-51ae12ac834d"
+    }
   },
   "relations" : [ ],
   "attributes" : {

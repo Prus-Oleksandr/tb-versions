@@ -6,7 +6,10 @@
       "id" : "e6c359c0-c60e-11f1-80d5-f16669ca5aca"
     },
     "excludedPermissions" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ROLE",
+      "id" : "e6c97440-c60e-11f1-80d5-f16669ca5aca"
+    },
     "name" : "Public User",
     "permissions" : {
       "ALARM" : [ "READ" ],

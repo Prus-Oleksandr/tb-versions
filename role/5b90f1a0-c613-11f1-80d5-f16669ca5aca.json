@@ -6,7 +6,10 @@
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
     "excludedPermissions" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ROLE",
+      "id" : "5b90f1a0-c613-11f1-80d5-f16669ca5aca"
+    },
     "name" : "Entity Group Read-only User",
     "permissions" : [ "READ", "RPC_CALL", "READ_CREDENTIALS", "READ_ATTRIBUTES", "READ_TELEMETRY" ],
     "type" : "GROUP",

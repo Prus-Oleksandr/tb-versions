@@ -6,7 +6,10 @@
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
     "excludedPermissions" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ROLE",
+      "id" : "800d19a0-c60e-11f1-80d5-f16669ca5aca"
+    },
     "name" : "Customer Administrator",
     "permissions" : {
       "ALL" : [ "ALL" ]

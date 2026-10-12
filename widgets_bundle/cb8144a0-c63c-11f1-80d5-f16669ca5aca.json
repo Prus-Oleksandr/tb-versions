@@ -3,7 +3,10 @@
   "entity" : {
     "alias" : "test10",
     "description" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "cb8144a0-c63c-11f1-80d5-f16669ca5aca"
+    },
     "id" : {
       "entityType" : "WIDGETS_BUNDLE",
       "id" : "cb8144a0-c63c-11f1-80d5-f16669ca5aca"
