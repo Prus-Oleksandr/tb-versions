@@ -26,7 +26,7 @@
       "id" : "5d4123c0-c641-11f1-80d5-f16669ca5aca"
     },
     "label" : null,
-    "name" : "Test Device A1Extra",
+    "name" : "Test Device A1",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "default"
@@ -51,8 +51,8 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "test_attribute",
-      "lastUpdateTs" : 1791812078373,
-      "longValue" : 4,
+      "lastUpdateTs" : 1791812084982,
+      "longValue" : 5,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]
