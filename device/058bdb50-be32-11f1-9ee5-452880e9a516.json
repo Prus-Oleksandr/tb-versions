@@ -1,0 +1,343 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : true
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT",
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "0da2b080-bb11-11f1-94bb-51ae12ac834d"
+    },
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "label" : "",
+    "name" : "Gateway_for_tests",
+    "ownerId" : null,
+    "softwareId" : null,
+    "type" : "default"
+  },
+  "credentials" : {
+    "credentialsId" : "QHX0tZ0VCKc631Xa2jXa",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "801dbae0-c0bd-11f1-89a8-69debb551c10"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 217
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "c3cf0020-c0b6-11f1-89a8-69debb551c10"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 215
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "c8e4d5a0-c09b-11f1-9ee5-452880e9a516"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 211
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "df9a58f0-be58-11f1-9ee5-452880e9a516"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 207
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "fe557f50-c087-11f1-9ee5-452880e9a516"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 209
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "feffef10-c156-11f1-a9f5-bb321029982f"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 221
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "230d6a40-be32-11f1-9ee5-452880e9a516"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 197
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "231c5e60-be32-11f1-9ee5-452880e9a516"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 199
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "23281e30-be32-11f1-9ee5-452880e9a516"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 201
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "2a0b5ee0-c0c3-11f1-89a8-69debb551c10"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 219
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "442a0e60-c0b0-11f1-89a8-69debb551c10"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 213
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "6739f2d0-be53-11f1-9ee5-452880e9a516"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 205
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "76ddb6c0-be32-11f1-9ee5-452880e9a516"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 203
+  } ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"type\":\"ftp\",\"name\":\"FTP\",\"configuration\":\"ftp.json\",\"id\":\"8cd2efcb-ef15-4195-9164-8f91a30542e0\",\"configVersion\":\"3.8.5\",\"configurationJson\":{\"parameters\":{\"host\":\"127.0.0.1\",\"port\":2121,\"TLSSupport\":false,\"security\":{\"type\":\"basic\",\"username\":\"admin\",\"password\":\"admin\"}},\"paths\":[{\"devicePatternName\":\"FTP emulator\",\"devicePatternType\":\"ftp\",\"path\":\"sensors/device_1.json\",\"readMode\":\"FULL\",\"maxFileSize\":5,\"pollPeriod\":5,\"attributes\":[{\"type\":\"string\",\"key\":\"serialNumber\",\"value\":\"${serialNumber}\"},{\"type\":\"string\",\"key\":\"model\",\"value\":\"${model}\"}],\"timeseries\":[{\"type\":\"double\",\"key\":\"temperature\",\"value\":\"${temperature}\"},{\"type\":\"integer\",\"key\":\"humidity\",\"value\":\"${humidity}\"}]},{\"devicePatternName\":\"FTP emulator\",\"devicePatternType\":\"ftp\",\"delimiter\":\",\",\"path\":\"metrics/data.txt\",\"readMode\":\"FULL\",\"maxFileSize\":5,\"pollPeriod\":5,\"txtFileDataView\":\"TABLE\",\"attributes\":[],\"timeseries\":[{\"type\":\"double\",\"key\":\"cpu\",\"value\":\"${cpu}\"},{\"type\":\"double\",\"key\":\"memory\",\"value\":\"${memory}\"},{\"type\":\"integer\",\"key\":\"uptime\",\"value\":\"${uptime}\"}]}],\"requestsMapping\":{\"attributeUpdates\":[],\"serverSideRpc\":[{\"deviceNameFilter\":\".*\",\"methodFilter\":\"read\",\"valueExpression\":\"${params}\"},{\"deviceNameFilter\":\".*\",\"methodFilter\":\"write\",\"valueExpression\":\"${params}\"}]},\"name\":\"FTP\",\"id\":\"8cd2efcb-ef15-4195-9164-8f91a30542e0\"},\"logLevel\":\"DEBUG\",\"enableRemoteLogging\":false,\"ts\":1791298510873}",
+      "key" : "FTP",
+      "lastUpdateTs" : 1791298511195,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"mode\":\"advanced\",\"name\":\"MQTT\",\"type\":\"mqtt\",\"enableRemoteLogging\":false,\"logLevel\":\"INFO\",\"configuration\":\"mqtt.json\",\"configurationJson\":{\"broker\":{\"host\":\"127.0.0.1\",\"port\":1884,\"version\":5,\"clientId\":\"ThingsBoard_gateway\",\"security\":{\"type\":\"anonymous\"},\"maxNumberOfWorkers\":100,\"maxMessageNumberPerWorker\":10},\"mapping\":[{\"topicFilter\":\"data/\",\"subscriptionQos\":1,\"converter\":{\"type\":\"json\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"constant\",\"deviceNameExpression\":\"Demo Device\",\"deviceProfileExpressionSource\":\"constant\",\"deviceProfileExpression\":\"default\"},\"sendDataOnlyOnChange\":false,\"timeout\":60000,\"attributes\":[{\"type\":\"double\",\"key\":\"power\",\"value\":\"${power}\"},{\"type\":\"integer\",\"key\":\"frequency\",\"value\":\"${frequency}\"}],\"timeseries\":[{\"type\":\"double\",\"key\":\"temperature\",\"value\":\"${temperature}\"},{\"type\":\"double\",\"key\":\"humidity\",\"value\":\"${humidity}\"},{\"type\":\"boolean\",\"key\":\"relay\",\"value\":\"${relay}\"}]}},{\"topicFilter\":\"sensor/data\",\"subscriptionQos\":1,\"reportStrategy\":{\"type\":\"ON_REPORT_PERIOD\",\"reportPeriod\":30000},\"converter\":{\"type\":\"json\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"message\",\"deviceNameExpression\":\"${serialNumber}\",\"deviceProfileExpressionSource\":\"message\",\"deviceProfileExpression\":\"${sensorType}\"},\"attributes\":[{\"type\":\"string\",\"key\":\"model\",\"value\":\"${sensorModel}\"}],\"timeseries\":[{\"type\":\"double\",\"key\":\"temperature\",\"value\":\"${temp}\"},{\"type\":\"double\",\"key\":\"humidity\",\"value\":\"${hum}\"}]}},{\"topicFilter\":\"sensor/+/data\",\"subscriptionQos\":1,\"converter\":{\"type\":\"json\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"topic\",\"deviceNameExpression\":\"(?<=sensor/)(.*?)(?=/data)\",\"deviceProfileExpressionSource\":\"constant\",\"deviceProfileExpression\":\"Thermometer\"},\"timeout\":60000,\"attributes\":[{\"type\":\"string\",\"key\":\"model\",\"value\":\"${sensorModel}\"}],\"timeseries\":[{\"type\":\"double\",\"key\":\"temperature\",\"value\":\"${temp}\"},{\"type\":\"string\",\"key\":\"humidity\",\"value\":\"${hum}\"}]}},{\"topicFilter\":\"sensor/raw_data\",\"subscriptionQos\":1,\"converter\":{\"type\":\"bytes\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"message\",\"deviceNameExpression\":\"[0:4]\",\"deviceProfileExpressionSource\":\"constant\",\"deviceProfileExpression\":\"default\"},\"timeout\":60000,\"attributes\":[{\"type\":\"raw\",\"key\":\"rawData\",\"value\":\"[:]\"}],\"timeseries\":[{\"type\":\"raw\",\"key\":\"temp\",\"value\":\"[4:]\"}]}},{\"topicFilter\":\"custom/sensors/+\",\"subscriptionQos\":1,\"converter\":{\"type\":\"custom\",\"extension\":\"CustomMqttUplinkConverter\",\"cached\":true,\"extensionConfig\":{\"temperature\":2,\"humidity\":2,\"batteryLevel\":1}}}],\"requestsMapping\":{\"connectRequests\":[],\"disconnectRequests\":[],\"attributeRequests\":[{\"topicFilter\":\"v1/devices/me/attributes/request\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"message\",\"deviceNameExpression\":\"${serialNumber}\"},\"attributeNameExpressionSource\":\"message\",\"attributeNameExpression\":\"${versionAttribute}\",\"topicExpression\":\"devices/${deviceName}/attrs\",\"valueExpression\":\"${attributeKey}: ${attributeValue}\",\"retain\":false}],\"attributeUpdates\":[],\"serverSideRpc\":[{\"type\":\"oneWay\",\"deviceNameFilter\":\".*\",\"methodFilter\":\"no-reply\",\"requestTopicExpression\":\"sensor/${deviceName}/request/${methodName}/${requestId}\",\"valueExpression\":\"${params}\"},{\"type\":\"twoWay\",\"deviceNameFilter\":\".*\",\"methodFilter\":\"echo\",\"requestTopicExpression\":\"sensor/${deviceName}/request/${methodName}/${requestId}\",\"responseTopicExpression\":\"sensor/${deviceName}/response/${methodName}/${requestId}\",\"valueExpression\":\"${params}\",\"responseTopicQoS\":1,\"responseTimeout\":10000}]},\"name\":\"MQTT\",\"id\":\"4df71da4-1d26-4778-9b7e-b9307f9fb5ec\",\"logLevel\":\"INFO\",\"enableRemoteLogging\":false,\"configVersion\":\"3.8.5\"},\"configVersion\":\"3.8.5\",\"ts\":1790939969199}",
+      "key" : "MQTT",
+      "lastUpdateTs" : 1790939969521,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"type\":\"ocpp\",\"name\":\"OCPP\",\"configuration\":\"ocpp.json\",\"id\":\"fe4ec7c4-6b3e-4736-a227-8b1fb158ac8f\",\"configVersion\":\"3.8.5\",\"configurationJson\":{\"centralSystem\":{\"name\":\"Central System\",\"host\":\"127.0.0.1\",\"port\":9000,\"connection\":{\"type\":\"insecure\"},\"security\":[{\"type\":\"basic\",\"credentials\":[{\"username\":\"admin\",\"password\":\"admin\"}]}]},\"chargePoints\":[{\"idRegexpPattern\":\"CP_EMU_.*\",\"deviceNameExpression\":\"${Vendor} ${Model}\",\"deviceTypeExpression\":\"ocpp\",\"attributes\":[{\"messageTypeFilter\":\"BootNotification,\",\"key\":\"serialNumber\",\"value\":\"${serial_number}\"},{\"messageTypeFilter\":\"BootNotification,\",\"key\":\"firmwareVersion\",\"value\":\"${firmware_version}\"},{\"messageTypeFilter\":\"BootNotification,\",\"key\":\"bootReason\",\"value\":\"${reason}\"}],\"timeseries\":[{\"messageTypeFilter\":\"MeterValues,TransactionEvent,\",\"key\":\"soc\",\"value\":\"${soc}\"},{\"messageTypeFilter\":\"MeterValues,TransactionEvent,\",\"key\":\"energy\",\"value\":\"${energy_active_import_register}\"},{\"messageTypeFilter\":\"MeterValues,TransactionEvent,\",\"key\":\"power\",\"value\":\"${power_active_import}\"},{\"messageTypeFilter\":\"StatusNotification,\",\"key\":\"connectorStatus\",\"value\":\"${connector_status}\"},{\"messageTypeFilter\":\"TransactionEvent,\",\"key\":\"transactionEvent\",\"value\":\"${event_type}\"},{\"messageTypeFilter\":\"TransactionEvent,\",\"key\":\"chargingState\",\"value\":\"${transaction_info.charging_state}\"},{\"messageTypeFilter\":\"DataTransfer,\",\"key\":\"heartbeatInterval\",\"value\":\"${data.heartbeatInterval}\"},{\"messageTypeFilter\":\"DataTransfer,\",\"key\":\"meterInterval\",\"value\":\"${data.meterInterval}\"},{\"messageTypeFilter\":\"DataTransfer,\",\"key\":\"maxPower\",\"value\":\"${data.maxPower}\"},{\"messageTypeFilter\":\"DataTransfer,\",\"key\":\"charging\",\"value\":\"${data.charging}\"},{\"messageTypeFilter\":\"DataTransfer,\",\"key\":\"transactionId\",\"value\":\"${data.transactionId}\"},{\"messageTypeFilter\":\"DataTransfer,\",\"key\":\"lastMessage\",\"value\":\"${data.lastMessage}\"},{\"messageTypeFilter\":\"DataTransfer,\",\"key\":\"resetCount\",\"value\":\"${data.resetCount}\"},{\"messageTypeFilter\":\"Heartbeat,\",\"key\":\"lastHeartbeat\",\"value\":\"${current_time}\"}],\"attributeUpdates\":[{\"attributeOnThingsBoard\":\"serialNumber\",\"valueExpression\":\"{\\\"${attributeKey}\\\": \\\"${attributeValue}\\\"}\",\"timeout\":10}],\"serverSideRpc\":[{\"methodRPC\":\"dataTransfer\",\"valueExpression\":\"${params}\",\"timeout\":10},{\"methodRPC\":\"startCharging\",\"action\":\"RequestStartTransaction\",\"valueExpression\":\"{\\\"id_token\\\": {\\\"id_token\\\": \\\"TB-RPC\\\", \\\"type\\\": \\\"Central\\\"}, \\\"remote_start_id\\\": ${params.remoteStartId}, \\\"evse_id\\\": 1}\",\"timeout\":10},{\"methodRPC\":\"stopCharging\",\"action\":\"RequestStopTransaction\",\"valueExpression\":\"{\\\"transaction_id\\\": ${params.transactionId}}\",\"timeout\":10},{\"methodRPC\":\"reset\",\"action\":\"Reset\",\"valueExpression\":\"{\\\"type\\\": ${params.type}}\",\"timeout\":10}]}],\"id\":\"fe4ec7c4-6b3e-4736-a227-8b1fb158ac8f\",\"name\":\"OCPP\"},\"logLevel\":\"DEBUG\",\"enableRemoteLogging\":false,\"ts\":1791449200204}",
+      "key" : "OCPP",
+      "lastUpdateTs" : 1791449200529,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"type\":\"odbc\",\"name\":\"ODBC\",\"configuration\":\"odbc.json\",\"id\":\"44af06b3-dfe9-48da-9420-fd8cf46dc687\",\"configurationJson\":{\"connection\":{\"str\":\"Driver={PostgreSQL Unicode};Server=127.0.0.1;Port=5432;Database=odbc_emulator;Uid=postgres;Pwd=postgres;\",\"attributes\":{\"autocommit\":true,\"timeout\":0},\"encoding\":\"utf-8\",\"decoding\":{\"char\":\"utf-8\",\"wchar\":\"utf-8\",\"metadata\":\"utf-16le\"},\"reconnect\":true,\"reconnectPeriod\":10},\"pyodbc\":{\"pooling\":false},\"polling\":{\"query\":\"SELECT ts, device, temperature, mode, relay, setpoint, command_count, last_command FROM telemetry WHERE ts > ? ORDER BY ts ASC LIMIT 10\",\"period\":5,\"iterator\":{\"column\":\"ts\",\"query\":\"SELECT COALESCE(MAX(ts), 0) FROM telemetry\",\"persistent\":false}},\"mapping\":{\"device\":{\"type\":\"odbc\",\"name\":\"'ODBC ' + device\"},\"sendDataOnlyOnChange\":false,\"attributes\":[{\"name\":\"lastCommand\",\"column\":\"last_command\"}],\"timeseries\":[{\"name\":\"temperature\",\"column\":\"temperature\"},{\"name\":\"mode\",\"column\":\"mode\"},{\"name\":\"relay\",\"column\":\"relay\"},{\"name\":\"setpoint\",\"column\":\"setpoint\"},{\"name\":\"commandCount\",\"column\":\"command_count\"}]},\"serverSideRpc\":{\"enableUnknownRpc\":false,\"overrideRpcConfig\":true,\"methods\":[{\"name\":\"set_mode\",\"args\":[\"comfort\"],\"result\":true},{\"name\":\"set_relay\",\"args\":[\"1\"],\"result\":true},{\"name\":\"set_setpoint\",\"args\":[\"24\"],\"result\":true},{\"name\":\"reset_counter\",\"result\":true},{\"name\":\"get_state\",\"query\":\"SELECT * FROM device_state\",\"result\":true}]},\"id\":\"44af06b3-dfe9-48da-9420-fd8cf46dc687\",\"name\":\"ODBC\"},\"logLevel\":\"DEBUG\",\"enableRemoteLogging\":false,\"ts\":1791295092667}",
+      "key" : "ODBC",
+      "lastUpdateTs" : 1791295092988,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"type\":\"request\",\"name\":\"REQUEST\",\"configuration\":\"request.json\",\"id\":\"89108a65-8687-48a2-924a-ed28ec9f1858\",\"configVersion\":\"3.8.5\",\"configurationJson\":{\"host\":\"http://127.0.0.1:5001\",\"SSLVerify\":false,\"security\":{\"type\":\"anonymous\"},\"mapping\":[{\"url\":\"/device/info\",\"httpMethod\":\"GET\",\"httpHeaders\":{\"ACCEPT\":\"application/json\"},\"allowRedirects\":true,\"timeout\":2,\"scanPeriod\":10,\"dataUnpackExpression\":\"\",\"converter\":{\"type\":\"json\",\"deviceNameJsonExpression\":\"Request Test Device\",\"deviceTypeJsonExpression\":\"default\",\"attributes\":[{\"key\":\"infoPath\",\"type\":\"string\",\"value\":\"${path}\"}],\"telemetry\":[]}}],\"attributeUpdates\":[],\"serverSideRpc\":[{\"deviceNameFilter\":\".*\",\"methodFilter\":\"setState\",\"requestUrlExpression\":\"/device/state\",\"responseTimeout\":5,\"httpMethod\":\"POST\",\"requestValueExpression\":\"${params}\",\"timeout\":2,\"tries\":3,\"httpHeaders\":{\"Content-Type\":\"application/json\"}},{\"deviceNameFilter\":\".*\",\"methodFilter\":\"getState\",\"requestUrlExpression\":\"/device/state\",\"responseTimeout\":5,\"httpMethod\":\"GET\",\"requestValueExpression\":\"\",\"responseValueExpression\":\"${value}\",\"timeout\":2,\"tries\":3}],\"name\":\"REQUEST\",\"id\":\"89108a65-8687-48a2-924a-ed28ec9f1858\"},\"logLevel\":\"DEBUG\",\"enableRemoteLogging\":false,\"ts\":1791199828068}",
+      "key" : "REQUEST",
+      "lastUpdateTs" : 1791199828461,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"type\":\"rest\",\"name\":\"REST\",\"configuration\":\"rest.json\",\"id\":\"b1f80c45-7a3c-44ea-a962-04aa4b8900b8\",\"configurationJson\":{\"server\":{\"host\":\"127.0.0.1\",\"port\":\"5000\",\"SSL\":false,\"security\":{\"cert\":\"~/ssl/cert.pem\",\"key\":\"~/ssl/key.pem\"}},\"mapping\":[{\"endpoint\":\"/rpc_state\",\"HTTPMethods\":[\"POST\"],\"response\":{\"responseExpected\":false,\"timeout\":120},\"security\":{\"type\":\"anonymous\"},\"converter\":{\"type\":\"json\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"constant\",\"deviceNameExpression\":\"REST RPC Test Device\",\"deviceProfileExpressionSource\":\"constant\",\"deviceProfileExpression\":\"default\"},\"attributes\":[],\"timeseries\":[{\"type\":\"string\",\"key\":\"${key}\",\"value\":\"${value}\"}]}},{\"endpoint\":\"/my_devices\",\"HTTPMethods\":[\"POST\"],\"response\":{\"responseExpected\":false,\"timeout\":120},\"security\":{\"type\":\"anonymous\"},\"converter\":{\"type\":\"json\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"request\",\"deviceNameExpression\":\"${sensorName}\",\"deviceProfileExpressionSource\":\"request\",\"deviceProfileExpression\":\"${sensorType}\"},\"attributes\":[{\"type\":\"string\",\"key\":\"model\",\"value\":\"${sensorModel}\"},{\"type\":\"string\",\"key\":\"certificateNumber\",\"value\":\"${certificateNumber}\"}],\"timeseries\":[{\"type\":\"double\",\"key\":\"temperature\",\"value\":\"${temp}\"},{\"type\":\"double\",\"key\":\"humidity\",\"value\":\"${hum}\"}]}},{\"endpoint\":\"/anon1\",\"HTTPMethods\":[\"GET\",\"POST\"],\"response\":{\"responseExpected\":false,\"timeout\":120},\"security\":{\"type\":\"anonymous\"},\"converter\":{\"type\":\"json\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"constant\",\"deviceNameExpression\":\"Device 2\",\"deviceProfileExpressionSource\":\"constant\",\"deviceProfileExpression\":\"default\"},\"attributes\":[{\"type\":\"string\",\"key\":\"model\",\"value\":\"Model2\"}],\"timeseries\":[{\"type\":\"double\",\"key\":\"temperature\",\"value\":\"${temp}\"},{\"type\":\"double\",\"key\":\"humidity\",\"value\":\"${hum}\"}]}},{\"endpoint\":\"/anon2\",\"HTTPMethods\":[\"POST\"],\"response\":{\"responseExpected\":false,\"timeout\":120},\"security\":{\"type\":\"anonymous\"},\"converter\":{\"type\":\"custom\",\"deviceInfo\":{\"deviceNameExpressionSource\":\"constant\",\"deviceNameExpression\":\"SuperAnonDevice\",\"deviceProfileExpressionSource\":\"constant\",\"deviceProfileExpression\":\"default\"},\"extension\":\"CustomRestUplinkConverter\",\"extensionConfig\":{\"key\":\"Totaliser\",\"datatype\":\"float\",\"fromByte\":0,\"toByte\":4,\"byteorder\":\"big\",\"signed\":true,\"multiplier\":1}}}],\"requestsMapping\":{\"attributeRequests\":[{\"endpoint\":\"/sharedAttributes\",\"type\":\"shared\",\"HTTPMethods\":[\"POST\"],\"security\":{\"type\":\"anonymous\"},\"timeout\":10,\"deviceNameExpression\":\"${deviceName}\",\"attributeNameExpression\":\"${attribute}${attribute1}\"}],\"attributeUpdates\":[{\"HTTPMethod\":\"POST\",\"SSLVerify\":false,\"httpHeaders\":{\"Content-Type\":\"application/json\"},\"security\":{\"type\":\"anonymous\"},\"timeout\":0.5,\"tries\":3,\"allowRedirects\":true,\"deviceNameFilter\":\"SN.*\",\"attributeFilter\":\".*\",\"requestUrlExpression\":\"http://127.0.0.1:5001/\",\"valueExpression\":\"{\\\"deviceName\\\":\\\"${deviceName}\\\",\\\"${attributeKey}\\\":\\\"${attributeValue}\\\"}\"},{\"HTTPMethod\":\"POST\",\"SSLVerify\":false,\"httpHeaders\":{\"Content-Type\":\"application/json\"},\"security\":{\"type\":\"cert\",\"cert\":\"/thingsboard_gateway/config/cert.pem\",\"key\":\"/thingsboard_gateway/config/key.pem\"},\"timeout\":0.5,\"tries\":3,\"allowRedirects\":true,\"deviceNameFilter\":\"CERT.*\",\"attributeFilter\":\".*\",\"requestUrlExpression\":\"http://127.0.0.1:5002/\",\"valueExpression\":\"{\\\"deviceName\\\":\\\"${deviceName}\\\",\\\"${attributeKey}\\\":\\\"${attributeValue}\\\"}\"}],\"serverSideRpc\":[{\"deviceNameFilter\":\".*\",\"methodFilter\":\"echo\",\"requestUrlExpression\":\"http://127.0.0.1:5001/${deviceName}\",\"responseTimeout\":1,\"HTTPMethod\":\"GET\",\"valueExpression\":\"${params}\",\"timeout\":10,\"tries\":3,\"httpHeaders\":{\"Content-Type\":\"application/json\"},\"security\":{\"type\":\"anonymous\"}},{\"deviceNameFilter\":\"SN.*\",\"methodFilter\":\"post_attributes\",\"requestUrlExpression\":\"http://127.0.0.1:5000/my_devices\",\"responseTimeout\":1,\"HTTPMethod\":\"POST\",\"valueExpression\":\"{\\\"sensorName\\\":\\\"${deviceName}\\\", \\\"sensorModel\\\":\\\"${params.sensorModel}\\\", \\\"certificateNumber\\\":\\\"${params.certificateNumber}\\\", \\\"temp\\\":\\\"${params.temp}\\\", \\\"hum\\\":\\\"${params.hum}\\\"}\",\"timeout\":10,\"tries\":3,\"httpHeaders\":{\"Content-Type\":\"application/json\"},\"security\":{\"type\":\"anonymous\"}},{\"deviceNameFilter\":\".*\",\"methodFilter\":\"no-reply\",\"requestUrlExpression\":\"sensor/${deviceName}/request/${methodName}/${requestId}\",\"HTTPMethod\":\"POST\",\"valueExpression\":\"${params}\",\"httpHeaders\":{\"Content-Type\":\"application/json\"},\"security\":{\"type\":\"anonymous\"}}]},\"id\":\"b1f80c45-7a3c-44ea-a962-04aa4b8900b8\",\"name\":\"REST\"},\"logLevel\":\"DEBUG\",\"enableRemoteLogging\":false,\"ts\":1791182439299}",
+      "key" : "REST",
+      "lastUpdateTs" : 1791182439613,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"type\":\"snmp\",\"name\":\"SNMP\",\"configuration\":\"snmp.json\",\"id\":\"a06e2581-45a8-4b69-a13f-37896b41d8ee\",\"configVersion\":\"3.8.5\",\"configurationJson\":{\"devices\":[{\"deviceName\":\"SNMP emulator\",\"deviceType\":\"snmp\",\"ip\":\"127.0.0.1\",\"port\":1161,\"pollPeriod\":5000,\"community\":\"public\",\"version\":\"v2c\",\"attributes\":[{\"key\":\"sysDescr\",\"method\":\"get\",\"oid\":\"1.3.6.1.2.1.1.1.0\"},{\"key\":\"sysName\",\"method\":\"get\",\"oid\":\"1.3.6.1.2.1.1.5.0\"},{\"key\":\"relayState\",\"method\":\"get\",\"oid\":\"1.3.6.1.4.1.99999.1.3.0\"},{\"key\":\"mode\",\"method\":\"get\",\"oid\":\"1.3.6.1.4.1.99999.1.4.0\"},{\"key\":\"sysContact\",\"method\":\"get\",\"oid\":\"1.3.6.1.2.1.1.4.0\"},{\"key\":\"sysLocation\",\"method\":\"get\",\"oid\":\"1.3.6.1.2.1.1.6.0\"}],\"telemetry\":[{\"key\":\"uptime\",\"method\":\"get\",\"oid\":\"1.3.6.1.2.1.1.3.0\"},{\"key\":\"temperature\",\"method\":\"get\",\"oid\":\"1.3.6.1.4.1.99999.1.1.0\"},{\"key\":\"humidity\",\"method\":\"get\",\"oid\":\"1.3.6.1.4.1.99999.1.2.0\"},{\"key\":\"interfaces\",\"method\":\"walk\",\"oid\":\"1.3.6.1.2.1.2.2.1.10\"}],\"attributeUpdateRequests\":[{\"attributeFilter\":\"relay\",\"method\":\"set\",\"oid\":\"1.3.6.1.4.1.99999.1.3.0\",\"type\":\"INTEGER\"},{\"attributeFilter\":\"targetMode\",\"method\":\"set\",\"oid\":\"1.3.6.1.4.1.99999.1.4.0\",\"type\":\"STRING\"},{\"attributeFilter\":\"location\",\"method\":\"set\",\"oid\":\"1.3.6.1.2.1.1.6.0\",\"type\":\"STRING\"},{\"attributeFilter\":\"contact\",\"method\":\"set\",\"oid\":\"1.3.6.1.2.1.1.4.0\",\"type\":\"STRING\"}],\"serverSideRpcRequests\":[{\"requestFilter\":\"getData\",\"method\":\"get\",\"oid\":\"1.3.6.1.2.1.1.1.0\"},{\"requestFilter\":\"setData\",\"method\":\"set\",\"oid\":\"1.3.6.1.2.1.1.1.0\"},{\"requestFilter\":\"setRelay\",\"method\":\"set\",\"oid\":\"1.3.6.1.4.1.99999.1.3.0\",\"type\":\"INTEGER\"},{\"requestFilter\":\"multiSetData\",\"method\":\"multiset\",\"mappings\":{\"1.3.6.1.4.1.99999.1.3.0\":{\"value\":\"${params.relay}\",\"type\":\"INTEGER\"},\"1.3.6.1.4.1.99999.1.4.0\":\"${params.mode}\"}},{\"requestFilter\":\"getInterfaces\",\"method\":\"walk\",\"oid\":\"1.3.6.1.2.1.2.2.1.2\"},{\"requestFilter\":\"runBulkWalk\",\"method\":\"bulkwalk\",\"oid\":[\"1.3.6.1.2.1.1.1.0\",\"1.3.6.1.2.1.1.2.0\"]}]}],\"id\":\"a06e2581-45a8-4b69-a13f-37896b41d8ee\",\"name\":\"SNMP\"},\"logLevel\":\"DEBUG\",\"enableRemoteLogging\":false,\"ts\":1791446959414}",
+      "key" : "SNMP",
+      "lastUpdateTs" : 1791446959745,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"type\":\"modbus\",\"name\":\"TEST_2157\",\"configuration\":\"test2157.json\",\"id\":\"fccb5c93-de3f-484d-8e5a-cab8c4038db3\",\"configVersion\":\"3.8.5\",\"configurationJson\":{\"master\":{\"slaves\":[{\"host\":\"127.0.0.1\",\"port\":5021,\"type\":\"tcp\",\"method\":\"rtu\",\"unitId\":1,\"deviceName\":\"Modbus Offline Test Device\",\"deviceType\":\"default\",\"timeout\":5,\"byteOrder\":\"BIG\",\"wordOrder\":\"BIG\",\"retries\":1,\"retryOnEmpty\":true,\"retryOnInvalid\":true,\"pollPeriod\":1000,\"connectAttemptTimeMs\":5000,\"connectAttemptCount\":5,\"waitAfterFailedAttemptsMs\":30000,\"attributes\":[],\"timeseries\":[{\"tag\":\"pollCounter\",\"type\":\"32uint\",\"functionCode\":3,\"objectsCount\":2,\"address\":0},{\"tag\":\"emulatorTs\",\"type\":\"32uint\",\"functionCode\":3,\"objectsCount\":2,\"address\":2},{\"tag\":\"temperature\",\"type\":\"16int\",\"functionCode\":3,\"objectsCount\":1,\"address\":4,\"divider\":10},{\"tag\":\"humidity\",\"type\":\"16int\",\"functionCode\":3,\"objectsCount\":1,\"address\":5,\"divider\":10}],\"attributeUpdates\":[],\"rpc\":[]}]},\"name\":\"TEST_2157\",\"id\":\"fccb5c93-de3f-484d-8e5a-cab8c4038db3\"},\"logLevel\":\"DEBUG\",\"enableRemoteLogging\":false,\"ts\":1791287249102}",
+      "key" : "TEST_2157",
+      "lastUpdateTs" : 1791287249423,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1791810493265,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "[\"MQTT\",\"REST\",\"REQUEST\",\"TEST_2157\",\"ODBC\",\"FTP\",\"SNMP\",\"OCPP\"]",
+      "key" : "inactive_connectors",
+      "lastUpdateTs" : 1791449201662,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1791810493247,
+      "longValue" : 1791810493247,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1791809861801,
+      "longValue" : 1791809860944,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastConnectTime",
+      "lastUpdateTs" : 1791470560449,
+      "longValue" : 1791470560449,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastDisconnectTime",
+      "lastUpdateTs" : 1791455703246,
+      "longValue" : 1791455703246,
+      "strValue" : null
+    } ],
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"type\":\"can\",\"name\":\"CAN\",\"configuration\":\"can.json\",\"id\":\"d4a0f29a-0463-4b38-84c4-832f962c4108\",\"configurationJson\":{\"interface\":\"udp_multicast\",\"channel\":\"239.74.163.2\",\"backend\":{},\"reconnectPeriod\":5,\"devices\":[{\"name\":\"CAN emulator\",\"type\":\"can\",\"sendDataOnlyOnChange\":false,\"enableUnknownRpc\":false,\"overrideRpcConfig\":false,\"strictEval\":true,\"timeseries\":[{\"key\":\"rpm\",\"nodeId\":256,\"value\":\"0:2:big:int\",\"expression\":\"value / 4\"},{\"key\":\"coolantTemp\",\"nodeId\":256,\"value\":\"2:1:int:signed\"},{\"key\":\"lightLevel\",\"nodeId\":256,\"value\":\"4:1:int\"},{\"key\":\"speedLimit\",\"nodeId\":256,\"value\":\"5:1:int\"},{\"key\":\"mileage\",\"nodeId\":257,\"command\":\"0:1:1\",\"value\":\"1:4:little:int\"},{\"key\":\"fuelLevel\",\"nodeId\":257,\"command\":\"0:1:2\",\"value\":\"1:1:int\"}],\"attributes\":[{\"key\":\"lightsOn\",\"nodeId\":256,\"value\":\"3:1:int\",\"expression\":\"(value & 1) == 1\"},{\"key\":\"doorOpened\",\"nodeId\":256,\"value\":\"3:1:int\",\"expression\":\"(value & 4) == 4\"},{\"key\":\"firmware\",\"nodeId\":769,\"command\":\"0:1:1\",\"value\":\"1:-1:string\",\"polling\":{\"type\":\"once\",\"dataInHex\":\"00\"}}],\"serverSideRpc\":[{\"method\":\"setLightLevel\",\"nodeId\":1024,\"dataLength\":1},{\"method\":\"setSpeedLimit\",\"nodeId\":1025,\"dataExpression\":\"speed if speed < 200 else 200\"},{\"method\":\"sendSameData\",\"nodeId\":1026,\"dataInHex\":\"AA BB CC DD\"}]}],\"id\":\"d4a0f29a-0463-4b38-84c4-832f962c4108\",\"name\":\"CAN\"},\"logLevel\":\"DEBUG\",\"enableRemoteLogging\":false,\"ts\":1791449201345}",
+      "key" : "CAN",
+      "lastUpdateTs" : 1791449201666,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "[\"CAN\"]",
+      "key" : "active_connectors",
+      "lastUpdateTs" : 1791449201662,
+      "longValue" : null,
+      "strValue" : null
+    } ]
+  }
+}

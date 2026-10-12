@@ -1,0 +1,131 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "lastConnectedGateway" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT",
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "7cf91b00-bb1a-11f1-94bb-51ae12ac834d"
+    },
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "801dbae0-c0bd-11f1-89a8-69debb551c10"
+    },
+    "label" : null,
+    "name" : "SNMP emulator",
+    "ownerId" : null,
+    "softwareId" : null,
+    "type" : "snmp"
+  },
+  "credentials" : {
+    "credentialsId" : "BiOaFl5uap4Bo3nKsN5m",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "DEVICE",
+      "id" : "058bdb50-be32-11f1-9ee5-452880e9a516"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "801dbae0-c0bd-11f1-89a8-69debb551c10"
+    },
+    "type" : "Created",
+    "typeGroup" : "COMMON",
+    "version" : 217
+  } ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1791299499282,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1791299499269,
+      "longValue" : 1791299499269,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1791298865656,
+      "longValue" : 1791298865507,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastConnectTime",
+      "lastUpdateTs" : 1791298574068,
+      "longValue" : 1791298574068,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastDisconnectTime",
+      "lastUpdateTs" : 1791298867494,
+      "longValue" : 1791298867494,
+      "strValue" : null
+    } ],
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "contact",
+      "lastUpdateTs" : 1791287723358,
+      "longValue" : null,
+      "strValue" : "ops@example.com"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "location",
+      "lastUpdateTs" : 1791287660039,
+      "longValue" : null,
+      "strValue" : "Lab 2"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "relay",
+      "lastUpdateTs" : 1791287489098,
+      "longValue" : null,
+      "strValue" : "test str"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "targetMode",
+      "lastUpdateTs" : 1791287630481,
+      "longValue" : null,
+      "strValue" : "heating"
+    } ]
+  }
+}

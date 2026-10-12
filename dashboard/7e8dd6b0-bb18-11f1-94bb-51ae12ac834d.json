@@ -1,0 +1,139 @@
+{
+  "entityType" : "DASHBOARD",
+  "entity" : {
+    "id" : {
+      "entityType" : "DASHBOARD",
+      "id" : "7e8dd6b0-bb18-11f1-94bb-51ae12ac834d"
+    },
+    "customerId" : null,
+    "ownerId" : null,
+    "title" : "RPCs",
+    "name" : "RPCs",
+    "image" : null,
+    "assignedCustomers" : null,
+    "mobileHide" : false,
+    "mobileOrder" : null,
+    "configuration" : {
+      "description" : "",
+      "widgets" : {
+        "791c132a-f4f8-1922-0419-7b91209e1695" : {
+          "typeFullFqn" : "system.control_widgets.rpc_debug_terminal",
+          "type" : "rpc",
+          "sizeX" : 9.5,
+          "sizeY" : 5.5,
+          "config" : {
+            "targetDeviceAliases" : [ ],
+            "showTitle" : true,
+            "backgroundColor" : "#010101",
+            "color" : "rgba(255, 254, 254, 0.87)",
+            "padding" : "0px",
+            "settings" : {
+              "parseGpioStatusFunction" : "return body[pin] === true;",
+              "gpioStatusChangeRequest" : {
+                "method" : "setGpioStatus",
+                "paramsBody" : "{\n   \"pin\": \"{$pin}\",\n   \"enabled\": \"{$enabled}\"\n}"
+              },
+              "requestTimeout" : 500,
+              "switchPanelBackgroundColor" : "#b71c1c",
+              "gpioStatusRequest" : {
+                "method" : "getGpioStatus",
+                "paramsBody" : "{}"
+              },
+              "gpioList" : [ {
+                "pin" : 1,
+                "label" : "GPIO 1",
+                "row" : 0,
+                "col" : 0,
+                "_uniqueKey" : 0
+              }, {
+                "pin" : 2,
+                "label" : "GPIO 2",
+                "row" : 0,
+                "col" : 1,
+                "_uniqueKey" : 1
+              }, {
+                "pin" : 3,
+                "label" : "GPIO 3",
+                "row" : 1,
+                "col" : 0,
+                "_uniqueKey" : 2
+              } ]
+            },
+            "title" : "RPC debug terminal",
+            "dropShadow" : true,
+            "enableFullscreen" : true,
+            "widgetStyle" : { },
+            "titleStyle" : {
+              "fontSize" : "16px",
+              "fontWeight" : 400
+            },
+            "showLegend" : false,
+            "actions" : { },
+            "datasources" : [ ],
+            "targetDevice" : {
+              "type" : "device",
+              "deviceId" : "442a0e60-c0b0-11f1-89a8-69debb551c10"
+            }
+          },
+          "row" : 0,
+          "col" : 0,
+          "id" : "791c132a-f4f8-1922-0419-7b91209e1695"
+        }
+      },
+      "states" : {
+        "default" : {
+          "name" : "Test_RPC",
+          "root" : true,
+          "layouts" : {
+            "main" : {
+              "widgets" : {
+                "791c132a-f4f8-1922-0419-7b91209e1695" : {
+                  "sizeX" : 13,
+                  "sizeY" : 7,
+                  "row" : 0,
+                  "col" : 0
+                }
+              },
+              "gridSettings" : {
+                "layoutType" : "default",
+                "backgroundColor" : "#eeeeee",
+                "columns" : 24,
+                "margin" : 10,
+                "outerMargin" : true,
+                "backgroundSizeMode" : "100%"
+              }
+            }
+          }
+        }
+      },
+      "entityAliases" : { },
+      "filters" : { },
+      "timewindow" : {
+        "selectedTab" : 0,
+        "realtime" : {
+          "realtimeType" : 0,
+          "timewindowMs" : 3600000
+        },
+        "aggregation" : {
+          "type" : "NONE",
+          "limit" : 50000
+        }
+      },
+      "settings" : {
+        "stateControllerId" : "entity",
+        "showTitle" : false,
+        "showDashboardsSelect" : true,
+        "showEntitiesSelect" : true,
+        "showDashboardTimewindow" : true,
+        "showDashboardExport" : true,
+        "toolbarAlwaysOpen" : true
+      }
+    },
+    "resources" : null,
+    "externalId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
